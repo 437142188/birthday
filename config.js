@@ -26,8 +26,8 @@ var config = {
     imgs: {
         "心爱的小仙女": "./imgs/xiaokeai.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
-        "2019": "./imgs/2019.jpg",
-        "2020": "./imgs/2020.jpg",
+        "2019年": "./imgs/2019.jpg",
+        "2020年": "./imgs/2020.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
